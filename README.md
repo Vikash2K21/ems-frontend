@@ -57,15 +57,9 @@ npm run dev
 
 
 The app runs at:
-
 http://localhost:5173/
-🌐 Connect Frontend with Backend
 
-Open:
 
-src/services/EmployeeServices.js
-Update REST_API_BASE_URL for production:
-const REST_API_BASE_URL = "https://your-springboot-backend.onrender.com/api/employees";
 
 🎨 UI Highlights
 
